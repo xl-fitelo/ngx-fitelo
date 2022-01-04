@@ -1,0 +1,18 @@
+{
+  "name": "ngx-fitelo",
+  "version": "0.0.27",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "main": "bundles/ngx-fitelo.umd.js",
+  "module": "fesm2015/ngx-fitelo.js",
+  "es2015": "fesm2015/ngx-fitelo.js",
+  "esm2015": "esm2015/ngx-fitelo.js",
+  "fesm2015": "fesm2015/ngx-fitelo.js",
+  "typings": "ngx-fitelo.d.ts",
+  "sideEffects": false
+}
